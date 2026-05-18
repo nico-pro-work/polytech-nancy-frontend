@@ -19,6 +19,6 @@ Ils se trouvent Dans le dossier `/support`
 
 ## ✨ Rendu
 
-- Pour les rendus des TD, vous devrait envoyer vos différents fichiers à l'adresse mail suivante: n.schmitt@cgi.com
-- L'intitulé de l'objet doit se formatter de cette façon '[POLYTECH-NANCY] Rendu TD_numéro_du_TD - NOM_Prénom' et vous devez ajouter les fichiers que vous avez créer en pièces jointes (ou en .zip)
+- Pour les rendus des TD, vous devrez envoyer vos différents fichiers à l'adresse mail suivante: n.schmitt@cgi.com
+- L'intitulé de l'objet doit se formater de cette façon '[POLYTECH-NANCY] Rendu TD_XX - NOM_Prénom' (en remplaçant le numéro du TD ainsi que votre nom et prénom) et vous devez ajouter les fichiers que vous avez créer en pièces jointes (ou en .zip)
 
