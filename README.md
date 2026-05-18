@@ -6,8 +6,7 @@ Document et support pour les cours de "Bases de la programmation web front"
 
 Ce repository contient :
 
-- Toutes les présentations et support qui ont été utilisés pour les cours côté front
-Ils se trouvent Dans le dossier `/support`
+- Toutes les présentations et support qui ont été utilisés pour les cours côté front se trouvent dans le dossier `/support`
 - Le dossier `/exemple` contient tous les exemples qui ont été utilisés pendant les cours
 
 
