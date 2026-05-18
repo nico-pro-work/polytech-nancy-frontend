@@ -1,6 +1,6 @@
 # Cours Polytech front 2026
 
-Document et support pour es cours de "Bases de la programmation web front" 
+Document et support pour les cours de "Bases de la programmation web front" 
 
 ## 📖 À propos
 
